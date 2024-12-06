@@ -60,7 +60,7 @@ pip install -r requirements.txt
    从 GitHub 克隆此项目：
 
    ```bash
-   git clone https://github.com/Qutumn815/1024-image-scraper.git
+   git clone https://github.com/QAutumn815/1024-image-scraper.git
    cd 1024-image-scraper
    ```
 
@@ -88,13 +88,15 @@ pip install -r requirements.txt
 
 运行脚本后，程序会要求你选择需要爬取的分区。输入数字选择你想爬取的分区。例如：
 
-```
-请选择需要爬取的分区：
-1. 盖达尔的旗帜
-2. 新时代的我们
-3. 成人文学交流区
-输入对应数字选择分区：1
-```
+
+>请选择需要爬取的分区：
+>1. 盖达尔的旗帜
+>2. 新时代的我们
+>3. 成人文学交流区
+>输入对应数字选择分区：1
+><br><font color=Blue>2和3暂未实现</font>
+
+
 
 ### 2. 输入分页范围
 
