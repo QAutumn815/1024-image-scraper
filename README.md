@@ -60,7 +60,7 @@ pip install -r requirements.txt
    从 GitHub 克隆此项目：
 
    ```bash
-   git clone https://github.com/Qutumn815/1024-image-scraper.git
+   git clone https://github.com/QAutumn815/1024-image-scraper.git
    cd 1024-image-scraper
    ```
 
