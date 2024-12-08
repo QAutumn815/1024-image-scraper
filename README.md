@@ -17,6 +17,8 @@
 
 ```
 
+```markdown
+
 ## 项目目录结构
 
 1024-image-scraper/
@@ -37,6 +39,8 @@
 ├── main.py                        # 主程序入口
 ├── requirements.txt               # 依赖库列表
 └── README.md                      # 项目说明
+
+```
 
 
 ## 环境要求
