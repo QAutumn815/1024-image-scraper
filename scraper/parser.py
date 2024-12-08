@@ -8,7 +8,7 @@ def parse_thread_links(html):
     for link in soup.find_all("a", href=True):
         href = link.get("href")
         if href and "htm_data" in href:
-            full_url = f"https://和谐/{href}"
+            full_url = f"https://cb.3696x.xyz/{href}"
             if full_url not in SKIPPED_URLS:  # 如果链接不在跳过列表中
                 thread_links.append(full_url)
     return thread_links
