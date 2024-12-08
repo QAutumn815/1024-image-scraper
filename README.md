@@ -1,10 +1,5 @@
-### **`README.md`**
+### **`多线程爬取盖达尔的旗帜图片`**
 
-```markdown
-
-多线程爬取盖达尔的旗帜图片
-
-```
 
 ```markdown
 # 1024 Image Scraper
